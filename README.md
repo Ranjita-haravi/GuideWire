@@ -460,7 +460,7 @@ Future roadmap includes a native mobile app with offline support.
 ## 🔗 Links
 
 - **Repository:** *https://github.com/Ranjita-haravi/GuideWire*
-- **Demo Video:** *https://drive.google.com/drive/folders/1QErv73JYTfj7jo_kqaZr2r1zDtXwSapn?usp=sharing*
+- **Demo Video:** *https://drive.google.com/drive/folders/12Y-3GRFXQMGGDxDBdjeKMny7eybgwYkr?usp=sharing*
 
 
 ---
