@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 The Problem
+##  The Problem
 
 India has over **15 million platform-based delivery partners** working with Zomato, Swiggy, Amazon, Zepto, and Blinkit. Their income is entirely dependent on being able to work outdoors — every day, every hour.
 
@@ -17,7 +17,7 @@ They need **income protection** — fast, automatic, and affordable.
 
 ---
 
-## 👤 Persona: Arjun, Swiggy Delivery Partner — Chennai
+##  Persona: Arjun, Swiggy Delivery Partner — Chennai
 
 | Attribute | Detail |
 |---|---|
@@ -31,7 +31,7 @@ They need **income protection** — fast, automatic, and affordable.
 | Typical Weekly Earnings | ₹5,100 – ₹5,950 |
 | Vulnerability | Operates in historically flood-prone zones |
 
-### 📖 Arjun's Story
+###  Arjun's Story
 
 On a normal Wednesday, Arjun completes 18–22 deliveries. But when the Northeast Monsoon hits Chennai — which it does every October–December — his delivery zone near Velachery (known for waterlogging) becomes inaccessible. Orders dry up. He earns ₹200 on a day he should earn ₹850.
 
@@ -41,7 +41,7 @@ GigShield automatically detects the disruption using real-time weather data, cro
 
 ---
 
-## 🔁 Application Workflow
+##  Application Workflow
 
 ```
   Worker Onboarding
@@ -73,7 +73,7 @@ GigShield automatically detects the disruption using real-time weather data, cro
 
 ---
 
-## 💰 Weekly Premium Model
+##  Weekly Premium Model
 
 GigShield uses a **dynamic weekly pricing model** because gig workers operate and think week-to-week. Premiums are computed every Monday morning using AI risk scoring.
 
@@ -103,7 +103,7 @@ Workers can also **upgrade their plan mid-week** if the AI predicts an incoming 
 
 ---
 
-## ⚡ Parametric Triggers
+##  Parametric Triggers
 
 Parametric insurance pays out based on **objective data conditions**, not subjective claim reviews.
 
@@ -133,7 +133,7 @@ This prevents single noisy signals from firing false claims.
 
 ---
 
-## 🤖 AI / ML Integration
+##  AI / ML Integration
 
 ### 1. Zone Risk Scoring (Premium Calculation)
 
@@ -171,7 +171,7 @@ This prevents single noisy signals from firing false claims.
 
 ---
 
-## 🚨 Phase 1 — Market Crash Response: Adversarial Defense & Anti-Spoofing Strategy
+##  Phase 1 — Market Crash Response: Adversarial Defense & Anti-Spoofing Strategy
 
 > **The Attack:** 500 delivery partners. Fake GPS. Real payouts. A coordinated fraud ring organized on Telegram used GPS spoofing apps to falsely appear stranded in flood zones — draining the platform's liquidity pool. Simple GPS verification is dead. Here is how GigShield fights back.
 
@@ -179,7 +179,7 @@ GigShield's defense is built around **three core questions** the hackathon poses
 
 ---
 
-### ❓ Question 1: How Do You Spot the Faker from the Genuinely Stranded Worker?
+###  Question 1: How Do You Spot the Faker from the Genuinely Stranded Worker?
 
 **Answer: Behavioral DNA Fingerprinting**
 
@@ -199,7 +199,7 @@ A genuine worker stranded by a flood shows a **recognizable signature**: active 
 
 ---
 
-### ❓ Question 2: What Data Catches a Coordinated Fraud Ring?
+###  Question 2: What Data Catches a Coordinated Fraud Ring?
 
 **Answer: Cross-Worker Cluster Anomaly Detection**
 
@@ -251,7 +251,7 @@ GPS spoofing cannot fake the weather. Every claim must be corroborated by **at l
 
 ---
 
-### ❓ Question 3: How Do You Flag Bad Actors Without Punishing Honest Workers?
+###  Question 3: How Do You Flag Bad Actors Without Punishing Honest Workers?
 
 **Answer: Asymmetric Review — Hold First, Reject Only After Verification**
 
@@ -291,7 +291,7 @@ The key principle: **We hold claims. We don't kill them.** A 2-hour delay for an
 
 ---
 
-## 🌊 Market Crash Resilience — Liquidity Pool Protection
+## Market Crash Resilience — Liquidity Pool Protection
 
 > **Scenario:** A catastrophic weather event (e.g., Chennai's 2015-scale floods) triggers simultaneous payouts for 80–90% of enrolled workers in a single week, risking insolvency of the liquidity pool.
 
@@ -357,7 +357,7 @@ Future roadmap includes a native mobile app with offline support.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -395,7 +395,7 @@ Future roadmap includes a native mobile app with offline support.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Layer | Technology |
 |---|---|
@@ -412,7 +412,7 @@ Future roadmap includes a native mobile app with offline support.
 
 ---
 
-## 📅 Development Plan
+##  Development Plan
 
 ### Phase 1 — Ideation & Foundation (March 4–20)
 - [x] Define problem statement and persona (Arjun, Chennai)
@@ -445,7 +445,7 @@ Future roadmap includes a native mobile app with offline support.
 
 ---
 
-## 👥 Team
+##  Team
 
 | Member | Role |
 |---|---|
@@ -459,9 +459,9 @@ Future roadmap includes a native mobile app with offline support.
 
 ## 🔗 Links
 
-- **Repository:** *(this repo)*
-- **Demo Video:** *(to be added)*
-- **Live Demo:** *(to be added)*
+- **Repository:** *https://github.com/Ranjita-haravi/GuideWire*
+- **Demo Video:** *https://drive.google.com/drive/folders/1QErv73JYTfj7jo_kqaZr2r1zDtXwSapn?usp=sharing*
+
 
 ---
 
